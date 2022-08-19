@@ -8,12 +8,13 @@ table
     margin: auto ;
 }
 input{
-    border-radius: 21px;
+    border-radius: px;
     border: 5px solid black;
     font-size: 34px;
+	margin-bottom:1%;
 }
 button{
-    border-radius:20px;
+    border-radius:px;
     font-size: 40px;
     background: cornsilk;
     width: 102px;
@@ -21,16 +22,16 @@ button{
 }
 .calculator{
 	border: 8px;
-	border-style:ridge;
+	border-style:solid ;
 
 	border-left-color:#fcb045;
 	border-right-color:#fcb045;
 	border-bottom-color:#fcb045;
 	border-top-color:#fcb045;
 	
-    background-color: crimson;
+   /* background-color:;*/
     padding: 23px;
-    border-radius: 53px;
+    border-radius: 1px;
         display:inline-block;
 
 }
